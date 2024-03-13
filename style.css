@@ -45,3 +45,8 @@ nav {
   font-size: 20px;
   text-align: center;
 }
+
+.box {
+  background-color: #ECEFF1;
+  width: 100%;
+}
