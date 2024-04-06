@@ -67,5 +67,13 @@ nav {
 }
 
 .image1 {
-  
+  background-image: url("img/sketch.jpg");
+  width: 300px;
+  height: 250px;
+}
+
+.image2 {
+  background-image: url("img/websuku.png");
+  width: 300px;
+  height: 250px;
 }
