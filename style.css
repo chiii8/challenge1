@@ -77,3 +77,27 @@ nav {
   width: 300px;
   height: 250px;
 }
+
+.image3 {
+  background-image: url("img/write.jpg");
+  width: 300px;
+  height: 250px;
+}
+
+.image4 {
+  background-image: url("img/webcamp.png");
+  width: 300px;
+  height: 250px;
+}
+
+.image5 {
+  background-image: url("img/talk.jpg");
+  width: 300px;
+  height: 250px;
+}
+
+.image6 {
+  background-image: url("img/webcamp-mother.png");
+  width: 300px;
+  height: 250px;
+}
