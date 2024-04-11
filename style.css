@@ -66,6 +66,14 @@ nav {
   text-align: center;
 }
 
+.img-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 90
+}
+
 .image1 {
   background-image: url("img/sketch.jpg");
   width: 300px;
