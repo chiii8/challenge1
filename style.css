@@ -38,6 +38,8 @@ nav {
   color: #FAFAFA;
   font-size: 64px;
   text-align: center;
+  padding-top: 200px;
+  padding-bottom: 10px;
 }
 
 .top > .text {
@@ -108,4 +110,25 @@ nav {
   background-image: url("img/webcamp-mother.png");
   width: 300px;
   height: 250px;
+}
+
+.box1 .title {
+  font-size: 32px;
+  color: #000000;
+  padding-top: 90px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+.box1 .text {
+  font-size: 16px;
+  color: #000000;
+  text-align: center;
+  padding: 30px 0 30px 0;
+}
+
+.list1 {
+  width: 320px;
+  height: auto;
+  margin-right: 10px;
 }
