@@ -69,6 +69,7 @@ nav {
 }
 
 .img-box {
+  width: 920px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
