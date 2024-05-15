@@ -134,3 +134,16 @@ nav {
   height: auto;
   margin-right: 10px;
 }
+
+footer {
+  height: 60px;
+  background-color: #EC715F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .text {
+  color: #FAFAFA;
+  font-size: 16px;
+}
