@@ -135,6 +135,11 @@ nav {
   margin-right: 10px;
 }
 
+.box3 .title {
+  font-size: 32px;
+  color: #000000;
+}
+
 footer {
   height: 60px;
   background-color: #EC715F;
